@@ -1,3 +1,3 @@
 FROM php:apache
 
-ADD index.php /var/www/html/
+ADD website/index.php /var/www/html/
